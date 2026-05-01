@@ -1,0 +1,99 @@
+/*
+ * Dark — tokens.css
+ * NEVER remove or move from path: frontend/src/styles/tokens.css
+ * Medieval Forest Theme
+ */
+
+:root {
+  /* ── Base Palette: Forest Scale ── */
+  --palette-dark-50: #0F1A0E;
+  --palette-dark-100: #142212;
+  --palette-dark-200: #1A2818;
+  --palette-dark-300: #243520;
+  --palette-dark-400: #3A5234;
+  --palette-dark-500: #5A7252;
+  --palette-dark-600: #7A9470;
+  --palette-dark-700: #9DB492;
+  --palette-dark-800: #C4D4B8;
+  --palette-dark-900: #E8DFC8;
+
+  /* ── Base Palette: Accent (Aged Gold) ── */
+  --primary-color: #C8963E;
+  --palette-primary: var(--primary-color);
+  --palette-primary-hover: #B8862E;
+  --palette-primary-light: #2A1E0A;
+
+  /* ── Base Palette: Status ── */
+  --palette-green-400: #5CAD6A;
+  --palette-yellow-400: #D4A24C;
+  --palette-red-400: #C44B3F;
+  --palette-blue-400: #5B8DB8;
+
+  /* ── Semantic Tokens ── */
+  --color-bg: #0F1A0E;
+  --color-surface: #1A2818;
+  --color-surface-alt: #243520;
+  --color-fg: #E8DFC8;
+  --color-muted: var(--palette-dark-500);
+  --color-text-secondary: var(--palette-dark-600);
+
+  --color-accent: var(--palette-primary);
+  --color-accent-hover: var(--palette-primary-hover);
+  --color-focus-ring: var(--palette-primary-light);
+
+  --color-border: var(--palette-dark-200);
+  --color-border-hover: var(--palette-dark-300);
+
+  --color-success: var(--palette-green-400);
+  --color-warning: var(--palette-yellow-400);
+  --color-error: var(--palette-red-400);
+  --color-info: var(--palette-blue-400);
+
+  --color-chart-1: #C8963E;
+  --color-chart-2: #5CAD6A;
+  --color-chart-3: #D4A24C;
+  --color-chart-4: #8B6F4E;
+  --color-chart-5: #7A9470;
+
+  /* ── Landing Page Decorative ── */
+  --lp-orb-accent: rgba(200, 150, 62, 0.05);
+  --lp-orb-accent-2: rgba(200, 150, 62, 0.04);
+  --lp-orb-surface: rgba(26, 40, 24, 0.6);
+  --lp-overlay-start: rgba(15, 26, 14, 0.6);
+  --lp-overlay-mid: rgba(15, 26, 14, 0.85);
+  --lp-border-subtle: rgba(26, 40, 24, 0.5);
+  --lp-accent-border-light: rgba(200, 150, 62, 0.2);
+  --lp-accent-border-medium: rgba(200, 150, 62, 0.3);
+  --lp-hero-text-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
+
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.5rem;
+
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.3);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.4), 0 2px 4px -2px rgb(0 0 0 / 0.3);
+
+  --motion-fast: 150ms;
+  --motion-normal: 300ms;
+
+  /* ── Typography Tokens ── */
+  --font-heading: 'Cinzel', Georgia, serif;
+  --font-body: 'Lora', Georgia, 'Times New Roman', serif;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.625;
+}

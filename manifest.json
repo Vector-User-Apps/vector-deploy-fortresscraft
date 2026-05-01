@@ -1,0 +1,1510 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-01T22:07:03.156841+00:00",
+  "files": [
+    {
+      "path": ".agent-browser/default.pid",
+      "file_type": "pid",
+      "size": 4,
+      "hash": "8cd6cb7e1601eb5dcd0a0d3d8f62c2dd8ee483819f9130a34259a217e927679f",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952525401.png",
+      "file_type": "png",
+      "size": 241676,
+      "hash": "8933112c772206262690f35ce3305e824ab0d4aeceb05376359acba8866ca5fb",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952549583.png",
+      "file_type": "png",
+      "size": 53151,
+      "hash": "c21ed9f665a742dadd70750230a949937993b4ac222532bbbae55a13e0515085",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952565281.png",
+      "file_type": "png",
+      "size": 48384,
+      "hash": "4be36443d9714b19d6ee98f64b3fbcea387fd732d5a773357ad23061340ef42b",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952577673.png",
+      "file_type": "png",
+      "size": 50802,
+      "hash": "200a13f5c419b3fcd41df8598292362a06dfd0c52e1b4d6acb3e110cd45b3eaa",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952608318.png",
+      "file_type": "png",
+      "size": 260331,
+      "hash": "ec0f57522db4ed6ac13954489ac542284cd7c81123118d4bad2abf6a18fa11a9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952623674.png",
+      "file_type": "png",
+      "size": 42464,
+      "hash": "59f6467601b202ae754ff41af8e54278876ab9b7cf604c690961b9a9baacbe5d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952639276.png",
+      "file_type": "png",
+      "size": 48034,
+      "hash": "854910ca744e3d1d5595dc8760eb7d182c3b3e93ebdc60493e4373d5c48273c0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952653589.png",
+      "file_type": "png",
+      "size": 46685,
+      "hash": "5ab70ae99e790118beb1262d14160909071e4d61fe30c6eb4aba3c061de8e13c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952672783.png",
+      "file_type": "png",
+      "size": 10440,
+      "hash": "2154ab9b70965071d052805077c04c2ac7942dc7ab3a84cba57b4d3d24779a80",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952780099.png",
+      "file_type": "png",
+      "size": 3422,
+      "hash": "5f71a0b851a8cecd17a4e8e805aec060d48bbea0662415b389e34d5330153c95",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".agent-browser/tmp/screenshots/screenshot-1773952799327.png",
+      "file_type": "png",
+      "size": 3422,
+      "hash": "5f71a0b851a8cecd17a4e8e805aec060d48bbea0662415b389e34d5330153c95",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".config/fish/conf.d/uv.env.fish",
+      "file_type": "fish",
+      "size": 36,
+      "hash": "2c9053b8925a72cdcc29564127b0bc5f3f8a1a8a40aced698b24c1b4de0822f8",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".config/google-chrome-for-testing/Crash Reports/settings.dat",
+      "file_type": "dat",
+      "size": 40,
+      "hash": "19134c22ef54546a94ea96d41c5601d34aa8dea5e1c87f087d6c2bd91086f59e",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".config/uv/uv-receipt.json",
+      "file_type": "json",
+      "size": 317,
+      "hash": "e9e944c3e74f188932ae501756b923a58d7ab5e12be3c85c998832f07287f5f7",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".pki/nssdb/pkcs11.txt",
+      "file_type": "txt",
+      "size": 445,
+      "hash": "3f63e775bd8a0a6767737c0469055e0e0ffe177d6106d77adb5d7208b787c1cf",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": ".templates/project.md",
+      "file_type": "md",
+      "size": 3075,
+      "hash": "7856245337f1c3265e69e83098b8c265811631f4021e729ec1671ecda582c8e2",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": ".templates/questioning.md",
+      "file_type": "md",
+      "size": 8804,
+      "hash": "670dc3ef85ad44898f8719779ec68d2b3f88379ad7be0829870f8c99ec826bf7",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/Makefile",
+      "file_type": "bin",
+      "size": 733,
+      "hash": "fdb6221d594483ab0a30022185e76a63ce5142c640bacb757a0fa489eddd1aac",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/apps.py",
+      "file_type": "py",
+      "size": 184,
+      "hash": "49b21fd425aeeff680bb5ecc10abec1f055f69e16841b5fe972848ec984e0d4d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/migrations/0001_initial.py",
+      "file_type": "py",
+      "size": 2815,
+      "hash": "571f5ee0d204ccc93059e1357ec8f15d3884534c8f06b689cd68ad46c5e8def2",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/migrations/0002_add_vector_user_id.py",
+      "file_type": "py",
+      "size": 537,
+      "hash": "852c02b36ed2ce7970a800301f3e840ec35ffe5e9749648fc9bfd99cbf8dded2",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/migrations/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/models.py",
+      "file_type": "py",
+      "size": 2015,
+      "hash": "fdfe11b3309cc444859d36bf3c33609f7e3efe818021197c4c84aed5b9536959",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/serializers.py",
+      "file_type": "py",
+      "size": 589,
+      "hash": "c9ef08855926d3ec51f309b6935a2420fe94be82a28ce9640f7f0bd5095eb26d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/serializers_admin.py",
+      "file_type": "py",
+      "size": 833,
+      "hash": "86ea242ed6371537e6bba374aeeae9bf48ebeb716906005db89e280d2eb5951d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/tests/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/tests/helpers.py",
+      "file_type": "py",
+      "size": 991,
+      "hash": "ebf83f3c0225668756ae6552fa35b4a69f24547bc3a4bd8ef013ed09daf21cf9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/tests/test_user_views.py",
+      "file_type": "py",
+      "size": 3342,
+      "hash": "701b4637eef790651d5fc88db025f6b3a4f0e5ac030f955b1ee23d4109dcf1e8",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/urls.py",
+      "file_type": "py",
+      "size": 550,
+      "hash": "5b3b2916914da229f1a12ce7d6c5ee888121c2697528b5ca37c490eea33543e1",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/views.py",
+      "file_type": "py",
+      "size": 1825,
+      "hash": "95f593399b31dcb589e7b960db50f8ae708fac50e7b12bde5a99716cc8c70482",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/views_admin.py",
+      "file_type": "py",
+      "size": 2392,
+      "hash": "7bd191da29b51690b5171f734d889e5db3ffc44719176da1c582688989c48016",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/accounts/views_auth_token.py",
+      "file_type": "py",
+      "size": 12732,
+      "hash": "569dfab2f959b528562e88607a703bc2fca7e34c320cf9d73d3ae013246e7cd7",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/settings.py",
+      "file_type": "py",
+      "size": 12290,
+      "hash": "ab6878eb80652a3377a32af4030dd3c487a2ee6a8b51617ea9160f2db2455f07",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/urls.py",
+      "file_type": "py",
+      "size": 1945,
+      "hash": "5042dea134e195e40000ec96c3d8a22108917fb6a17de07443ae14bb9cb38df9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/views.py",
+      "file_type": "py",
+      "size": 1018,
+      "hash": "86e805d24344e3c504275539588b7366a0939826a61d187878a9229c57eb92d3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/config/wsgi.py",
+      "file_type": "py",
+      "size": 202,
+      "hash": "805e9a28d51ab873da5a33666e72525b1bae6c8fb0ed948ad9ada0d73393d445",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/conftest.py",
+      "file_type": "py",
+      "size": 506,
+      "hash": "99234c7ceb72d3b6340bb75a7a92cf5f536efb18e1626f60083c903979800d2c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/connectors/connector_llm.py",
+      "file_type": "py",
+      "size": 8465,
+      "hash": "7b3ee397786b59c23fb8b5b4b14d641c7f8c0f7c255e826fd91678c03412a13f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/admin.py",
+      "file_type": "py",
+      "size": 675,
+      "hash": "a64d825225c0681adc80486cfa6501c78b1e23c8b1419b1ca471b482061ac664",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/apps.py",
+      "file_type": "py",
+      "size": 190,
+      "hash": "2e19a29e8deea9275cddce887c42250af0b2533d5980499c0ad5bd9be19cf047",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/management/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/management/commands/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/management/commands/reset_leaderboard.py",
+      "file_type": "py",
+      "size": 1032,
+      "hash": "58b579527fa2d33071d1dfaebf4c3c36630cd6cc195a8f69105916734b217366",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/migrations/0001_initial.py",
+      "file_type": "py",
+      "size": 1059,
+      "hash": "869f48f0cc39ee4d0900109b566102005d1cb260a4cf88be53ced5e676411ca3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/migrations/0002_highscore.py",
+      "file_type": "py",
+      "size": 1035,
+      "hash": "eb9d94ff585bcb584974ebeadf3cdc038d3e34ab2f52f2c420c8d72374b83905",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/migrations/0003_alter_highscore_score.py",
+      "file_type": "py",
+      "size": 395,
+      "hash": "9ede741a2f2ba7bd951d41a99f36acc668975a8f91af4cb0d55805f210868ca0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/migrations/0004_seed_sample_high_scores.py",
+      "file_type": "py",
+      "size": 1172,
+      "hash": "b0deb89306490fc7a35cb4408feb879c27634b927437cf4d89e58c8982cf10ae",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/migrations/0005_add_difficulty_level_to_highscore.py",
+      "file_type": "py",
+      "size": 492,
+      "hash": "74edf56d63be43270a3631fe15b746f4f66ead180955633680827bf228bcd1e6",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/migrations/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/models.py",
+      "file_type": "py",
+      "size": 2254,
+      "hash": "6a1840e117b09d79d3967b0c3a44e69af1cd0f98d1055c88a94a1f322795c125",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/pagination.py",
+      "file_type": "py",
+      "size": 231,
+      "hash": "c99dfab92dabee4770c4b7b9dc6a29211be039372074813825cff72ff739ac5f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/serializers.py",
+      "file_type": "py",
+      "size": 1965,
+      "hash": "ab2deedcf2007580c70347c3dea74ce590ada5c3d9519453f7b96c879bc5a449",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/tests.py",
+      "file_type": "py",
+      "size": 8022,
+      "hash": "d28d6f70d55201e303324f6ccbf14991863df53e48c8c9f4859c38c75e0a4bea",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/urls.py",
+      "file_type": "py",
+      "size": 612,
+      "hash": "92f39608c9a9b2f96a499c81289f49ae773daf49125e232fadae0403a46bfeb4",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/leaderboard/views.py",
+      "file_type": "py",
+      "size": 9373,
+      "hash": "efd123bed3fddd89bbd63ec82b6fa9a2daf17395e9dad6348fc05049e546b7e4",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/logs/.gitkeep",
+      "file_type": "gitkeep",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/manage.py",
+      "file_type": "py",
+      "size": 559,
+      "hash": "867f2da3e4489a068a36a60846fb96f5a2e6354c91fe8f28dbb92fb41f57c68f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/mypy.ini",
+      "file_type": "ini",
+      "size": 840,
+      "hash": "581ff782a5411f6ccc4935066f1c533b5a32461eb7472c82b55c8eba2fe3cfcd",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/prospector.yml",
+      "file_type": "yml",
+      "size": 323,
+      "hash": "aed8a73cd98900152421fae105585a04b9e438037ccfe8082caa63c961d3c204",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/pyproject.toml",
+      "file_type": "toml",
+      "size": 1405,
+      "hash": "a13a1040c716dfcd9decb25eea176b3e9ddb9a0b1eb14bffa73110e91a9f6970",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/pytest.ini",
+      "file_type": "ini",
+      "size": 214,
+      "hash": "fcc8dd8a349b936556d192173dcaf1f39bd8280e7e55c98afd07f209b668c199",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/authentication.py",
+      "file_type": "py",
+      "size": 3291,
+      "hash": "c5170dcd90cf9e158e0c1807e6f97ec42aee235cd8cdf02df9c11b22c31bc268",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/decorators.py",
+      "file_type": "py",
+      "size": 1322,
+      "hash": "64051b8a6444774526ebcfa3b32252b10e63e5b79039d4ffad75814502d93114",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/exceptions.py",
+      "file_type": "py",
+      "size": 2393,
+      "hash": "9d0dffa653a1a847bbc12c6faef9930a0232773304bad162d65adf6016ff1981",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/models.py",
+      "file_type": "py",
+      "size": 467,
+      "hash": "60fab48bd4a563f6a03ad213de78a764e60bedca5845e4a4fcf5aa70534732d3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/permissions.py",
+      "file_type": "py",
+      "size": 2169,
+      "hash": "12b690611741b5cea244b715aa0acfa91f84bb5eb1a6f6e442181280b43bf9be",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/tests/__init__.py",
+      "file_type": "py",
+      "size": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/tests/helpers.py",
+      "file_type": "py",
+      "size": 382,
+      "hash": "1e58e47c46f23bb8ba1614df0a3b1da986010e2a190728806e7feb3d52351124",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/throttles.py",
+      "file_type": "py",
+      "size": 612,
+      "hash": "a3d23a2e72db0bdaec6a6e9bc34ddbc4ebb92a6cfc16f8f669e14e54d715a078",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/utils.py",
+      "file_type": "py",
+      "size": 557,
+      "hash": "c4fe7e594eaa2179b8f1b25a35c295534d57868eb4edb41f1b12a908ac032171",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/shared/views.py",
+      "file_type": "py",
+      "size": 5223,
+      "hash": "e116938fe8bd44d72512e1c9bb14af8ab0f7428299140390a12923b1dc7002e4",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "backend/uv.lock",
+      "file_type": "lock",
+      "size": 174664,
+      "hash": "ea2296e486bd017c6113b018921373341a0225c6aec67162a37956e281909e38",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/.env",
+      "file_type": "env",
+      "size": 144,
+      "hash": "10e06458c058fb1180711d96f94b1c7c3d5b610e4d60e91dd08e62efecff07c3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/biome.json",
+      "file_type": "json",
+      "size": 1168,
+      "hash": "3909c585362d8b06a1f5a892dd8c7c4a66f2491c439fef22b1f5eefa6fef4495",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/capture-html.cjs",
+      "file_type": "cjs",
+      "size": 1139,
+      "hash": "0c34cbc87e81c1179cb0860d5637c4b22677b623e6de8f8c2c5a21361650b8ed",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/eslint.config.js",
+      "file_type": "js",
+      "size": 1462,
+      "hash": "663022a1ee9d2725e1629f7208bf521a10ae31064470be5184eb7aad43793a7d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/fast-screenshot.cjs",
+      "file_type": "cjs",
+      "size": 1313,
+      "hash": "148baf146872031ce959976a3c31db3dbcfa855ff19289c4c04c1bff5c8f341c",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/index.html",
+      "file_type": "html",
+      "size": 428,
+      "hash": "b7a1fb963f028315596b706bf6df78f6d7288904d3c9b4264de29ac9c5614445",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/package-lock.json",
+      "file_type": "json",
+      "size": 199497,
+      "hash": "490c27bb96341b57666dbe5183090e2b62f46761bc2af3d4b925850a77d47d87",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/package.json",
+      "file_type": "json",
+      "size": 1604,
+      "hash": "42e640e559e9d61d20a731cc2a2761657be5622c5012adc4ed212391b78b8dcb",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/playwright.config.ts",
+      "file_type": "ts",
+      "size": 757,
+      "hash": "81cecff7abc0ac369583994126be9456170989f85781d8045ace15cfde517168",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/postcss.config.js",
+      "file_type": "js",
+      "size": 80,
+      "hash": "190c877db466995bf1482f4a16abd06e04a89ede3119341e2a86ff96e1737b27",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/public/__vector-bridge.js",
+      "file_type": "js",
+      "size": 19285,
+      "hash": "dd97f170e9a2b7c1aaf4970a2edd50296e93b3413997939af32e8316e1ff7548",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/public/blocks/vector_bridge/bridge.js",
+      "file_type": "js",
+      "size": 19384,
+      "hash": "7c1110ee3f719e64f493075494f2f98555b02cb3a8f90be5669cd21a25d1dc63",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/App.tsx",
+      "file_type": "tsx",
+      "size": 2406,
+      "hash": "4691fe46259e1931b097002277ba71b4a9c2d27148deb4a0facc071a86c1c09c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/FortressFact.tsx",
+      "file_type": "tsx",
+      "size": 5606,
+      "hash": "6abd548c3d9a18d1386388ef69a03aa07b8546d26556177810187fea14966e04",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/FortressStatus.tsx",
+      "file_type": "tsx",
+      "size": 8623,
+      "hash": "543652ee92cf9afca92077d858fb060b15907038903875c35df71a51eb0e2698",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ThreatRadar.tsx",
+      "file_type": "tsx",
+      "size": 8847,
+      "hash": "699e0c01c19fdf1338e6addaddb2a4a67083864b1e5801a9ceb8b1389efbef6d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/VictoryConfetti.tsx",
+      "file_type": "tsx",
+      "size": 5029,
+      "hash": "ceec2e5b16861205afab2e4e4d4ff76f2a6a471b40d1437964d83cb71e6908e7",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/auth/LoginButton.tsx",
+      "file_type": "tsx",
+      "size": 2070,
+      "hash": "9d8ad13c976c5a91091d0c747b2465d9325189f5bc9d0df9ce74da03eb7f088f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/auth/SignupButton.tsx",
+      "file_type": "tsx",
+      "size": 2294,
+      "hash": "f1e32ba8fe66eba74b5dd13e914382333ac42ff7bc20a6b945a9a9e27d449b65",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ui/Button.tsx",
+      "file_type": "tsx",
+      "size": 2544,
+      "hash": "728b0067182366a2f3d0655784c412767fac85aaefa3061dfd2b86fa10a82f63",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ui/Dialog.tsx",
+      "file_type": "tsx",
+      "size": 16384,
+      "hash": "cc4d341a4c090ab391d8a01d98abff710e101558f263be80b70fcc54be900588",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ui/DialogProvider.tsx",
+      "file_type": "tsx",
+      "size": 7831,
+      "hash": "7b8dfcb328af0002580984ae006664d9b71cacf844f2042d63eed1c201a09ab0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ui/Select.tsx",
+      "file_type": "tsx",
+      "size": 4751,
+      "hash": "83478aca6d6da8b170a8fb4f44139eb2dde56daa3458e5db6bd63cb7c47c49b8",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ui/Spinner.tsx",
+      "file_type": "tsx",
+      "size": 808,
+      "hash": "5326d0066a1521cda050c96cc53514527a767fc0f9efe8174c9431fe505f7fd0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/components/ui/index.ts",
+      "file_type": "ts",
+      "size": 1358,
+      "hash": "d8d05f2e45146d82b43a0d9e843264fc89eef889af9cf95f02fd5ce006bc3c1e",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/bulletTimeStore.ts",
+      "file_type": "ts",
+      "size": 1204,
+      "hash": "e0344df675ed6c57e36dc53d01962560ff374b8f1ddbb4a625e3894f281c8fb5",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/comboMultiplier.ts",
+      "file_type": "ts",
+      "size": 183,
+      "hash": "901845308eb510223fe862c2b5f7fdaeb9d438e5fd0e483b7205765a6fc8da02",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/Battlefield.tsx",
+      "file_type": "tsx",
+      "size": 2913,
+      "hash": "738cdc7e66608f96f299b640819c2eb2979cfb98d9c351512e77de401914f980",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/CameraController.tsx",
+      "file_type": "tsx",
+      "size": 1028,
+      "hash": "2e763e2764e525cfac76133037793d9a2df2434cbdd906128fc246a917fbfdd6",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/DamageNumbers.tsx",
+      "file_type": "tsx",
+      "size": 1628,
+      "hash": "f23248c668a89e8d01a29f4569788abcb74448e01bc331b26f3e14865b196551",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/Effects.tsx",
+      "file_type": "tsx",
+      "size": 4719,
+      "hash": "0665913663a275f6f75d7de545d650a444b1a1ba17ee48887262cd6f75e6325a",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/Enemy.tsx",
+      "file_type": "tsx",
+      "size": 19678,
+      "hash": "33f322c0b59d1e00aed50c6e6d78a7386db5e1853c6132f0e12c9354498e3d58",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/GameLoop.tsx",
+      "file_type": "tsx",
+      "size": 8831,
+      "hash": "6b64d7b3e68e8265be28df29bcda6ff1f2b27ad57e15e4c8ee7fe4194a8060c0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/GameScene.tsx",
+      "file_type": "tsx",
+      "size": 1274,
+      "hash": "172a6ee0c04520114cb4a7eac3d42dbf67c6c105c4d9ef0886f35aad3c9c0403",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/GoldSparkle.tsx",
+      "file_type": "tsx",
+      "size": 2431,
+      "hash": "620ef0708d59cf2308f3106f9268d12c621805e9fe3d5e11499d24892ae42956",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/KillStreak.tsx",
+      "file_type": "tsx",
+      "size": 4771,
+      "hash": "c6b2c8aafde4ab6d6d3b67df7ed3be82192c170342707a6a9007a6c58c626487",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/LowHealthWarning.tsx",
+      "file_type": "tsx",
+      "size": 1153,
+      "hash": "6fc917085eebf3522ceae0775fe71e74f410305a89bae57a208fa46939a8807c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/Map.tsx",
+      "file_type": "tsx",
+      "size": 17244,
+      "hash": "ee0cbc71ca48ed445816af967af4828524d4904c41b0bfa85333392e896d0474",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/Projectile.tsx",
+      "file_type": "tsx",
+      "size": 10184,
+      "hash": "b128e488c524d576ec855beaa5bcca22ba16125fec28360a99b123cad76c2b8f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/Tower.tsx",
+      "file_type": "tsx",
+      "size": 41154,
+      "hash": "070e3a7057fdb6ac1df4ffcc6e5dd90191c00869db607d2f92336bcd11577a63",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/TowerPlacementEffect.tsx",
+      "file_type": "tsx",
+      "size": 1531,
+      "hash": "9fc32c27afb42e24ef8a7abab4ace6235149e9332383fa3aee919a45532e38e0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/WaveStartCinematic.tsx",
+      "file_type": "tsx",
+      "size": 4008,
+      "hash": "ff00996fa1fd0abe96424a06cf92e30c6a53ae96697cd1e9c1d91138e2d12052",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/useDamageNumbers.ts",
+      "file_type": "ts",
+      "size": 1129,
+      "hash": "97698a386735acdfc930a682402990181b5b42a4305cb62760fe85a7ca630fab",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/useGoldSparkle.ts",
+      "file_type": "ts",
+      "size": 977,
+      "hash": "eafb9e1b0407b3292e7569925d6818b2b7c51df48d866acf629ed9b49a1d15bb",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/components/useKillStreak.ts",
+      "file_type": "ts",
+      "size": 2141,
+      "hash": "27cebea66c9c925cdd3f68a237600db588f00af12b2201d12f781d0a5ad60697",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/constants.ts",
+      "file_type": "ts",
+      "size": 8837,
+      "hash": "55a8af16dbfaae48cad5b4316bab858b0b6590889ceed218aa65516550777e18",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/shakeStore.ts",
+      "file_type": "ts",
+      "size": 333,
+      "hash": "8cad6e365998f4afaece6c40345d49dc70836d6afc54d3d01bad65568850bbde",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/state.ts",
+      "file_type": "ts",
+      "size": 8213,
+      "hash": "b987393bdf96d353756225e3e9ec761b106e489134ec1872b4ab850ccd306247",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/systems/movement.ts",
+      "file_type": "ts",
+      "size": 1062,
+      "hash": "64fb9bad41296ed62ab6cbfe5df10424915e1382d0cf25eb9a423169fef09b70",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/systems/targeting.ts",
+      "file_type": "ts",
+      "size": 1943,
+      "hash": "d39db589332f85873c0f19d67287056104a774b352cc3b01d0a2698179c2a752",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/systems/waves.ts",
+      "file_type": "ts",
+      "size": 598,
+      "hash": "1fa07e664e5b6419e4c06dcad6784fcb16ff0353568810ab310426c155fdcf1b",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/types.ts",
+      "file_type": "ts",
+      "size": 2419,
+      "hash": "04cbf9be6e3d6a0557a68b449b68b7cdcf103af270662c4ed6f937ef8b2c616d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/ui/BulletTime.tsx",
+      "file_type": "tsx",
+      "size": 6714,
+      "hash": "d975a8ac9342c009524d4535ad6c2fd62a7b57363006dee9d9bbb9a7dd3b7c2f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/ui/HUD.tsx",
+      "file_type": "tsx",
+      "size": 2430,
+      "hash": "0e70794197a02d862a9a62cf8fbfa31699d58c4fad1dbcd8fba68855ab0136fa",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/ui/Minimap.tsx",
+      "file_type": "tsx",
+      "size": 7994,
+      "hash": "5cf2b2ab5c799d668544295686129646c67e831e136e50382c705310c148bfae",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/ui/TowerInfo.tsx",
+      "file_type": "tsx",
+      "size": 5246,
+      "hash": "2cc373effcf439425061606eeee9038572f6e70e5aaa331d0004c11a1d7542dd",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/ui/TowerPanel.tsx",
+      "file_type": "tsx",
+      "size": 3498,
+      "hash": "4f89983c4f6b497836714a384373585e7398c6c9906b1b8a20050ab5ef1b417d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/ui/WaveControls.tsx",
+      "file_type": "tsx",
+      "size": 3729,
+      "hash": "e9126c5ff3f3cc058bccd9b7d4536a04c3db680e1097860ebdec995d5a385860",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/game/ui/WavePreview.tsx",
+      "file_type": "tsx",
+      "size": 1659,
+      "hash": "274e41980f1fd6293049cdd819521c69ac18f7c32f821c0a5f0b8458dac30c90",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/hooks/useAuth.ts",
+      "file_type": "ts",
+      "size": 3952,
+      "hash": "4edd88d11f8032ec2e4f79d2d547aba3a6e06ca8d5518a81723ac3efc281b431",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/index.css",
+      "file_type": "css",
+      "size": 196,
+      "hash": "07c8f44a26157cef9cb85db03f337fe6349ec04e38ac70ca677238f8d97525cc",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/lib/utils.ts",
+      "file_type": "ts",
+      "size": 162,
+      "hash": "ff921c166bb24cf96d42b74a1431d89e8a1f6fc923cb4a12c5bebed3ab3e4d2f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/main.tsx",
+      "file_type": "tsx",
+      "size": 230,
+      "hash": "6e9e5807fcbd48b75a96db5cbef36c996262196be42e6d4760dc86babbe61ad2",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/AchievementsPage.tsx",
+      "file_type": "tsx",
+      "size": 9827,
+      "hash": "23f6cd4608de00e1906d6e6b45cd65f2600a94ff53d70846277b4ad64c3bc89a",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/AdminPage.tsx",
+      "file_type": "tsx",
+      "size": 14254,
+      "hash": "9782c0d94075de35bfb10cac1e257647dceb891ad0f859b5bdfa977907c1d8ab",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/ArmoryPage.tsx",
+      "file_type": "tsx",
+      "size": 14502,
+      "hash": "18e3d1c3680243f66fd2e9fd46ed8d6f30fed921fefb5b6878bb15c1c0d86861",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/AuthCallback.tsx",
+      "file_type": "tsx",
+      "size": 2923,
+      "hash": "de710042ce6156257f163f3ca142e425b66c7a8584c171755345ee5c32e3b4f9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/GameOver.tsx",
+      "file_type": "tsx",
+      "size": 7590,
+      "hash": "2ac7bef372f01fda9ec5963620f533b8644fedddaf63990382d40f0447582c78",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/GamePage.tsx",
+      "file_type": "tsx",
+      "size": 2870,
+      "hash": "557af483b0db602ac507621ae37fbed0ede4f8af6b7df27f07171bc38c182c31",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/HowToPlay.tsx",
+      "file_type": "tsx",
+      "size": 7482,
+      "hash": "ffb141ea01940cf6691aed8d724f1067a00f36d4263d77719c160788055c888d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/LandingPage.tsx",
+      "file_type": "tsx",
+      "size": 61773,
+      "hash": "107666cb0ead210bbe297a5a76b1b2c75973d2c4d341c759f4691c630cd24e13",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/LeaderboardPage.tsx",
+      "file_type": "tsx",
+      "size": 9408,
+      "hash": "cf9e7f88b3a7dff620f0e11a95c91287f407298ce7d19e4b1223e309cdad771f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/MainMenu.tsx",
+      "file_type": "tsx",
+      "size": 11244,
+      "hash": "81eda9829318ef3da44360761139779b2d748f9a5c4754a1f640b032ba653676",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/TacticalIntel.tsx",
+      "file_type": "tsx",
+      "size": 21765,
+      "hash": "26f93224dbe538f89e77b89ed35079d81a05c61bed31bce94e4b7c8dc5596b85",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/pages/WaveForecast.tsx",
+      "file_type": "tsx",
+      "size": 16689,
+      "hash": "d56f3568868ccc0543b977af3314ab273e78f1475fdfdbbae345a2f57ff7ef41",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/services/achievements.ts",
+      "file_type": "ts",
+      "size": 4229,
+      "hash": "c16a748a33bcc61338b421aa272ac6fa314ef559b5967ebfd91c187012f2039b",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/services/admin.ts",
+      "file_type": "ts",
+      "size": 633,
+      "hash": "0b7a358dc352ba7d291508989f9757682459a58c0d6a5ff93b04ce24dc5a7ca4",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/services/api.ts",
+      "file_type": "ts",
+      "size": 5381,
+      "hash": "606f83807bb0f6d9d84b84a0f0de2fb06377cf1b845a9d8572ddbf16c3f940f9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/services/leaderboard.ts",
+      "file_type": "ts",
+      "size": 696,
+      "hash": "8f464e9a5fd8cbb038583d5bebb063f3c2cfc05f25d35190701f5024ff8a5771",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/styles/tokens.css",
+      "file_type": "css",
+      "size": 2926,
+      "hash": "aed39af4b6228a115802de3541145761d1f7a14a9fa75772b52963c80b7e2130",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/types/axios.d.ts",
+      "file_type": "ts",
+      "size": 109,
+      "hash": "8042ca3dc66807d1bfdeeda54dbc6d5920a4bcd08578352b87c57b28d1ade0c3",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/src/vite-env.d.ts",
+      "file_type": "ts",
+      "size": 155,
+      "hash": "fd94fd489f6e6dd33677a36d895bdb828daa35c80cbcc9c1cd099c9e16636284",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tailwind.config.js",
+      "file_type": "js",
+      "size": 1936,
+      "hash": "9fc9992e9f0441d834062ccfa298c13d7ec4ed01dfbefa173ee96c01b39d1360",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tests/e2e/app.spec.ts",
+      "file_type": "ts",
+      "size": 1529,
+      "hash": "07c4639458517acbe1c9319049d3f9cc7a703e9d440f4bc1bd8446d88f8b4b97",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tests/e2e/game.spec.ts",
+      "file_type": "ts",
+      "size": 1656,
+      "hash": "0419ea15712ac161740338c32bdcfc28f30e95aa7016fd67b59e24986717eacc",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tests/e2e/leaderboard.spec.ts",
+      "file_type": "ts",
+      "size": 307,
+      "hash": "1743ea68d945e7337a30ba5b69f4bae402911dd87cb8bceda6829086f7cac8f6",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tests/e2e/menu.spec.ts",
+      "file_type": "ts",
+      "size": 1184,
+      "hash": "608976823358b24462505405207ef2aaea3ddc863e23dc0adc0b0dbd17aa2231",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tests/screenshots/LandingPage.png",
+      "file_type": "png",
+      "size": 35463,
+      "hash": "4bfeb8f92c106c2f70aa3b80fe59c4f826e36cc7c4689cf769ea311f24bd3426",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.app.json",
+      "file_type": "json",
+      "size": 669,
+      "hash": "dbddf03091dc3a19d0befe470c35f9b0515080de01d48b8f8225b9eeb84d6a7e",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.app.tsbuildinfo",
+      "file_type": "tsbuildinfo",
+      "size": 2253,
+      "hash": "93f3505cbce33dc62149225087916b56cf4408aa2fcf334b647ff07b274f2494",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.json",
+      "file_type": "json",
+      "size": 119,
+      "hash": "770b4140bbb581e2dfd9ea9946ffc9c75a1d86ba7d2db5f77c83e37cbdf9d808",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.node.json",
+      "file_type": "json",
+      "size": 435,
+      "hash": "e7e3cf511bcf2b1916169b18af2c2c0d44d06ad71ccb891197da3763e2230b86",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/tsconfig.node.tsbuildinfo",
+      "file_type": "tsbuildinfo",
+      "size": 47,
+      "hash": "e8dd9e113517e3b0c8342873ebd8bde559a18f6c014c9e8c8c5e30d357114027",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "frontend/vite.config.ts",
+      "file_type": "ts",
+      "size": 570,
+      "hash": "f51f93084394c0a0aabc393b541f6766cf609ff86679e0adf73f4a23132088e0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/.gitkeep",
+      "file_type": "gitkeep",
+      "size": 234,
+      "hash": "07e9fa525815e867dc4c9f125c6fce63173ba70fbd0fe4a3b0ce96550042fe0f",
+      "required_at_runtime": false,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/ExecutionSummary.md",
+      "file_type": "md",
+      "size": 1807,
+      "hash": "204b1fe29dd954c7a367cebd05a329f651aa928e1eec99a73e1528f4972c299f",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/Plan.md",
+      "file_type": "md",
+      "size": 5285,
+      "hash": "ee886c88e1b6bacc0e9c4262c94d051eb08708d2897ee4d3c4b80a3c78144180",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/Project.md",
+      "file_type": "md",
+      "size": 7222,
+      "hash": "fe35cc86b9d19de7feb5fea889fbc07b2c27f1e556e04f9f39b6148da231f342",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/ValidationReport.md",
+      "file_type": "md",
+      "size": 4174,
+      "hash": "78f5c1cc6705cee0b3badf9e5f9b9cca5588cd1a23b26bcedf0cd322c2bb1f42",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/design-style-guide.md",
+      "file_type": "md",
+      "size": 7653,
+      "hash": "743ecfa6d8030b7fdc26c34a40b515cee852a7c14be7aad56993daf7f4e23569",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/404-page.png",
+      "file_type": "png",
+      "size": 3422,
+      "hash": "5f71a0b851a8cecd17a4e8e805aec060d48bbea0662415b389e34d5330153c95",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/game-page.png",
+      "file_type": "png",
+      "size": 42464,
+      "hash": "59f6467601b202ae754ff41af8e54278876ab9b7cf604c690961b9a9baacbe5d",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/game-tower-selected.png",
+      "file_type": "png",
+      "size": 48034,
+      "hash": "854910ca744e3d1d5595dc8760eb7d182c3b3e93ebdc60493e4373d5c48273c0",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/game-wave-started.png",
+      "file_type": "png",
+      "size": 46685,
+      "hash": "5ab70ae99e790118beb1262d14160909071e4d61fe30c6eb4aba3c061de8e13c",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/how-to-play-back.png",
+      "file_type": "png",
+      "size": 3422,
+      "hash": "5f71a0b851a8cecd17a4e8e805aec060d48bbea0662415b389e34d5330153c95",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/how-to-play-enemies.png",
+      "file_type": "png",
+      "size": 50802,
+      "hash": "200a13f5c419b3fcd41df8598292362a06dfd0c52e1b4d6acb3e110cd45b3eaa",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/how-to-play-scrolled.png",
+      "file_type": "png",
+      "size": 48384,
+      "hash": "4be36443d9714b19d6ee98f64b3fbcea387fd732d5a773357ad23061340ef42b",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/how-to-play.png",
+      "file_type": "png",
+      "size": 53151,
+      "hash": "c21ed9f665a742dadd70750230a949937993b4ac222532bbbae55a13e0515085",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/landing-page.png",
+      "file_type": "png",
+      "size": 241676,
+      "hash": "8933112c772206262690f35ce3305e824ab0d4aeceb05376359acba8866ca5fb",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/leaderboard.png",
+      "file_type": "png",
+      "size": 10440,
+      "hash": "2154ab9b70965071d052805077c04c2ac7942dc7ab3a84cba57b4d3d24779a80",
+      "required_at_runtime": true,
+      "classification": "persist"
+    },
+    {
+      "path": "project/artifacts/validation/main-menu.png",
+      "file_type": "png",
+      "size": 260331,
+      "hash": "ec0f57522db4ed6ac13954489ac542284cd7c81123118d4bad2abf6a18fa11a9",
+      "required_at_runtime": true,
+      "classification": "persist"
+    }
+  ]
+}
